@@ -63,6 +63,7 @@ console.log(str3);       // Hello Devavrat
 console.log(1 + "2");         // 12
 console.log("1" + 2);         // 12
 console.log("1" + 2 + 2);     // 122
+console.log(1 + 2 + "2");     // 32
 console.log(+true);           // 1
 console.log(+"");             // 0
 
@@ -73,6 +74,7 @@ console.log(num1 + num2 + num3);    // 15
 let gameCounter = 100;
 ++gameCounter;
 console.log(gameCounter);           // 101
+
 
 
 
