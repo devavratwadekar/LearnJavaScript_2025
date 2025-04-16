@@ -1,12 +1,12 @@
 // Dates
-/*
+
 let my_date = new Date();
 console.log(my_date);                       // 2025-04-16T18:19:00.767Z
 console.log(my_date.toString());            // Wed Apr 16 2025 23:49:51 GMT+0530 (India Standard Time)
 console.log(my_date.toDateString());        // Wed Apr 16 2025
 console.log(my_date.toLocaleString());      // 16/4/2025, 11:51:20 pm
 console.log(typeof my_date);                // object
-*/
+
 
 // Date.now() STATIC method returns the number of milliseconds elapsed since the epoch, which is defined as the midnight at the beginning of January 1, 1970, UTC.
 
